@@ -27,10 +27,12 @@
 - **list**
   - **type**: `{Object, Array} list`
   - **default**: `[]`
-  - **tip**: an array or object to replace in `wxa` project
+
+an array or object to replace in `wxa` project
   
 - **flag**
   - **type**: `{String} flag`
-  - **flag**: `gm`
-  - **tip**: regular express's flag.
+  - **default**: `gm`
+
+regular express's flag.
 
